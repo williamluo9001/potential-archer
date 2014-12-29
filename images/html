@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+	<nav class="top-navigation">
+        <div class="content"></div>
+    </nav>
+<div class="content">
+    <img class="logo" src="http://i60.tinypic.com/2gtuhjd.jpg" alt="Logo Image" width="26px">
+</div>
+</body>
+</html>
+
