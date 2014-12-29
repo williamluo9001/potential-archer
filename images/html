@@ -1,17 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-	<link rel="stylesheet" href="css/style.css">
+<!-- saved from url=(0042)file:///C:/Users/kyubey/Desktop/html%20(2) -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
 <body>
 	<nav class="top-navigation">
-        <div class="content"></div>
-    </nav>
-<div class="content">
-    <img class="logo" src="http://i60.tinypic.com/2gtuhjd.jpg" alt="Logo Image" width="26px">
-</div>
-</body>
-</html>
+    <div class="content">
+        <ul class="links">
+            <li class="active">Meet Karma</li>
+            <li>How it Works</li>
+            <li>Store</li>
+            <li>Blog</li>
+            <li>Help</li>
+            <li>Login</li>
+        </ul>
+        <img class="logo" src="http://i60.tinypic.com/2gtuhjd.jpg" alt="Logo Image" width="26px">
+    </div>
+</nav>
 
+
+
+
+</body></html>
