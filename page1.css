@@ -1,0 +1,114 @@
+/* Paul Irish Box-Sizing: Border-Box reset - apply a natural box layout model to all elements, but allowing components to change http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+@media only screen and (max-width: 500px){ }
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+html, body {height: 100%; margin: 0}
+#content {width: 100%; height: 100%}
+
+body {
+
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;   
+  -o-background-size: cover !important;
+  background-size: cover !important;
+overflow: auto;
+}
+ol, ul {
+    list-style: none;
+}
+
+body {
+  max-width:100%;
+}
+
+p { color:#336699;}
+
+
+#left {width: 150px; height: 100%; 
+position:fixed;
+float: left; 
+background-color: #E8F1FF;
+top:0;
+}
+
+div .project {
+  line-height:200%;}
+    
+
+ .title {
+  font-size:150%;
+  
+ 
+ 
+
+}
+header{
+
+  width:100%;
+  font-size:150%;
+  background-color:#B8B8B8  ;
+  margin-left: 150px;
+  
+  position:fixed;
+  top: 0;
+  
+  
+}
+
+a{  font-size: 20px;}
+li {
+
+    display: inline;
+    padding:2.5%;
+}
+
+.right {  
+  display:block;
+  margin-top:80px;
+  margin-left:150px;
+
+   
+  
+}
+
+.inner {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
